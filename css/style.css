@@ -3,3 +3,16 @@
     object-fit: cover;
     height: 250px;
 }
+.colorplanta{
+   background-color:  #9bcc50 ;
+   
+}
+.colorveneno{
+   background-color:  #b97fc9;
+}
+.colorfuego{
+   background-color:  #fd7d24;
+}
+.colorvolador{
+   background-color:  #bdb9b8;
+}
